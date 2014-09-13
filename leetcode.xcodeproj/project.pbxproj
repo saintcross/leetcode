@@ -14,6 +14,7 @@
 		54888F2A19C3EFB4003C9656 /* LongestWithoutRepeating.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 54888F2819C3EFB4003C9656 /* LongestWithoutRepeating.cpp */; };
 		54888F2D19C3F5B8003C9656 /* AddTwoNumbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 54888F2B19C3F5B8003C9656 /* AddTwoNumbers.cpp */; };
 		54888F3019C432B6003C9656 /* LongestPalindromie.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 54888F2E19C432B6003C9656 /* LongestPalindromie.cpp */; };
+		54888F3319C45F5C003C9656 /* ZigZagConversion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 54888F3119C45F5C003C9656 /* ZigZagConversion.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +44,8 @@
 		54888F2C19C3F5B8003C9656 /* AddTwoNumbers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddTwoNumbers.h; sourceTree = "<group>"; };
 		54888F2E19C432B6003C9656 /* LongestPalindromie.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LongestPalindromie.cpp; sourceTree = "<group>"; };
 		54888F2F19C432B6003C9656 /* LongestPalindromie.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LongestPalindromie.h; sourceTree = "<group>"; };
+		54888F3119C45F5C003C9656 /* ZigZagConversion.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ZigZagConversion.cpp; sourceTree = "<group>"; };
+		54888F3219C45F5C003C9656 /* ZigZagConversion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZigZagConversion.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,13 +81,15 @@
 				54888F1219C3E339003C9656 /* main.cpp */,
 				54888F2519C3ED17003C9656 /* MedianOfSorted.cpp */,
 				54888F2619C3ED17003C9656 /* MedianOfSorted.h */,
-				54888F2219C3E6EF003C9656 /* TwoSum.cpp */,
+				54888F3119C45F5C003C9656 /* ZigZagConversion.cpp */,
+				54888F3219C45F5C003C9656 /* ZigZagConversion.h */,
 				54888F2819C3EFB4003C9656 /* LongestWithoutRepeating.cpp */,
+				54888F2919C3EFB4003C9656 /* LongestWithoutRepeating.h */,
 				54888F2E19C432B6003C9656 /* LongestPalindromie.cpp */,
 				54888F2F19C432B6003C9656 /* LongestPalindromie.h */,
-				54888F2919C3EFB4003C9656 /* LongestWithoutRepeating.h */,
 				54888F2B19C3F5B8003C9656 /* AddTwoNumbers.cpp */,
 				54888F2C19C3F5B8003C9656 /* AddTwoNumbers.h */,
+				54888F2219C3E6EF003C9656 /* TwoSum.cpp */,
 				54888F2319C3E6EF003C9656 /* TwoSum.h */,
 				54888F1419C3E339003C9656 /* leetcode.1 */,
 			);
@@ -146,6 +151,7 @@
 				54888F3019C432B6003C9656 /* LongestPalindromie.cpp in Sources */,
 				54888F1319C3E339003C9656 /* main.cpp in Sources */,
 				54888F2719C3ED17003C9656 /* MedianOfSorted.cpp in Sources */,
+				54888F3319C45F5C003C9656 /* ZigZagConversion.cpp in Sources */,
 				54888F2A19C3EFB4003C9656 /* LongestWithoutRepeating.cpp in Sources */,
 				54888F2D19C3F5B8003C9656 /* AddTwoNumbers.cpp in Sources */,
 			);
