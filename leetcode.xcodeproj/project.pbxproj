@@ -24,6 +24,7 @@
 		54888F2D19C3F5B8003C9656 /* AddTwoNumbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 54888F2B19C3F5B8003C9656 /* AddTwoNumbers.cpp */; };
 		54888F3019C432B6003C9656 /* LongestPalindromie.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 54888F2E19C432B6003C9656 /* LongestPalindromie.cpp */; };
 		54888F3319C45F5C003C9656 /* ZigZagConversion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 54888F3119C45F5C003C9656 /* ZigZagConversion.cpp */; };
+		54F95C8919CD66EC0009459E /* ThreeSumClosest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 54F95C8719CD66EC0009459E /* ThreeSumClosest.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -73,6 +74,8 @@
 		54888F2F19C432B6003C9656 /* LongestPalindromie.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LongestPalindromie.h; sourceTree = "<group>"; };
 		54888F3119C45F5C003C9656 /* ZigZagConversion.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ZigZagConversion.cpp; sourceTree = "<group>"; };
 		54888F3219C45F5C003C9656 /* ZigZagConversion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZigZagConversion.h; sourceTree = "<group>"; };
+		54F95C8719CD66EC0009459E /* ThreeSumClosest.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ThreeSumClosest.cpp; sourceTree = "<group>"; };
+		54F95C8819CD66EC0009459E /* ThreeSumClosest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThreeSumClosest.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +140,8 @@
 				5409668019CD489400C7953E /* LongestCommonPrefix.h */,
 				5409668219CD5B3600C7953E /* ThreeSum.cpp */,
 				5409668319CD5B3600C7953E /* ThreeSum.h */,
+				54F95C8719CD66EC0009459E /* ThreeSumClosest.cpp */,
+				54F95C8819CD66EC0009459E /* ThreeSumClosest.h */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -197,6 +202,7 @@
 				54888F3019C432B6003C9656 /* LongestPalindromie.cpp in Sources */,
 				5406C99019C5B1EA00EE7BB0 /* RomanToInteger.cpp in Sources */,
 				54888F1319C3E339003C9656 /* main.cpp in Sources */,
+				54F95C8919CD66EC0009459E /* ThreeSumClosest.cpp in Sources */,
 				5406C98A19C58B7900EE7BB0 /* ContainerWithMostWater.cpp in Sources */,
 				5406C98D19C5969E00EE7BB0 /* IntegerToRoman.cpp in Sources */,
 				54888F2719C3ED17003C9656 /* MedianOfSorted.cpp in Sources */,
